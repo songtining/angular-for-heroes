@@ -1,2 +1,2 @@
-This is "angular-for-heroes" project
-~~~~~~~~~~~~~~~
+Author: songtining
+Description: This is "angular-for-heroes" project ~~~~
